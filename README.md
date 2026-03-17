@@ -7,6 +7,9 @@
 # hakai-dataset-repository-template
 
 Summary here
+
+Tessa Rehill
+
 Alyssa Gehman
 ```
 repository reference citation
